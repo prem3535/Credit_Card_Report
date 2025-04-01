@@ -1,5 +1,4 @@
-
-#📊 Credit Card Financial Dashboard – Power BI
+📊 Credit Card Financial Dashboard – Power BI
 🔹 Overview
 This interactive Power BI dashboard provides real-time insights into credit card transactions and customer behavior by integrating data from an SQL database. It enables businesses to monitor key financial metrics, trends, and spending patterns, helping stakeholders make data-driven decisions.
 
